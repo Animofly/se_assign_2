@@ -14,6 +14,7 @@
  * 
  * The time class represents a moment of time.
  */
+/** se assignment 2*/
 class Time {
 public:
     /**
